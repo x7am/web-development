@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Developing</title>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        
+        <h1>Заголовок</h1>
+        <hr align="left" width="500" size="2" color="" />
+        <p style = "font-size:20px">Под горизонтальной линией выведите абзац, относящийся к тексту заголовка. </p>
+
+    </body>
+</html>
+ 

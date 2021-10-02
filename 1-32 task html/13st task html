@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Developing</title>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        <p style="font-size:20px">1² = 1</p>
+        <p style="font-size:20px">2² = 4</p>
+        <p style="font-size:20px">3² = 8</p>
+        <p style="font-size:20px">4² = 16</p>
+        <p style="font-size:20px">5² = 25</p>
+        <p style="font-size:20px">6² = 36</p>
+        <p style="font-size:20px">7² = 49</p>
+        <p style="font-size:20px">8² = 64</p>
+        <p style="font-size:20px">9² = 81</p>
+        <p style="font-size:20px">10² = 100</p>
+        <p style="font-size:20px">11² = 121</p>
+        <p style="font-size:20px">12² = 144</p>
+        <p style="font-size:20px">13² = 169</p>
+        <p style="font-size:20px">14² = 186</p>
+        <p style="font-size:20px">15² = 225</p>
+        <p style="font-size:20px">16² = 256</p>
+        <p style="font-size:20px">17² = 289</p>
+        <p style="font-size:20px">18² = 234</p>
+        <p style="font-size:20px">19² = 361</p>
+        <p style="font-size:20px">20² = 400</p>
+    </body>
+</html>
+ 
