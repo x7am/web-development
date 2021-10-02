@@ -1,0 +1,57 @@
+body
+    {
+    background-color: whitesmoke;
+    }
+
+    .footer, .foot_text
+        {
+            text-align: center;
+        }
+
+    .registration
+        {
+            background-color: whitesmoke;
+            margin-left: 30%;
+            margin-right: 30%;
+            padding: 10px;
+            border-radius: 10px;
+            height: 50%;
+        }
+
+    .submit
+        {
+            display: block;
+            margin-top: 1%;
+            margin-left: 41%;
+            background-color: whitesmoke;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 10px;
+            width: 13%;
+            text-align: center;
+        }
+
+    
+
+    td
+        {
+            padding-top: 10px;
+        }
+
+    input
+        {
+            border-radius: 5px;
+            border-width: 1px;
+        }
+
+    select, textarea
+        {
+            resize: none;
+            border-radius: 5px;
+        }
+
+        .ln, .n, .a
+        {
+            width: 100%;
+        }
