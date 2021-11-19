@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GitHub</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="align-content-center">
+        <img id="logo" class="rounded-circle" src="logo.png" alt="image">
+        <h2 id="Sigh" class="text-center">Sign in to GitHub</h2>
+    </div>
+    <div id="form" class="container py-1">
+        <div class="p-5 mb-4 bg-light rounded-2">
+            <main class="form-signin">
+                <form>
+                    <div class="form-floating">
+                        <p>Username or email address</p>
+                        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                        <label for="floatingInput"></label>
+                    </div>
+                    <div id="space_btw" class="form-floating">
+                        <div class="d-flex w-100 justify-content-between">
+                            <p class="mb-1">Password</p>
+                            <div class="text-end text-secondary"><a href="https://github.com/password_reset">Forgot
+                                password</a></div>
+                        </div>
+                        <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                        <label for="floatingPassword"></label>
+                    </div>
+                    <button id="button" class="btn btn-lg btn-success" type="submit">Sign in</button>
+                </form>
+            </main>
+        </div>
+        <ul class="list-group">
+            <li id="question" class="list-group-item text-center">
+                New to GitHub? <a
+                    href="https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Fsignup%3Fref_cta%3DSign%2Bup%26ref_loc%3Dheader%2Blogged%2Bout%26ref_page%3D%252F%26source%3Dheader-home&source=login">
+                Create an account</a>
+            </li>
+        </ul>
+        <div class="footer container-lg p-responsive py-6 mt-6 f6" role="contentinfo">
+            <ul id="list" class="list-style-none d-flex flex-justify-center">
+                <li id="link1" class="mr-3"><a href="https://github.com/site/terms">Terms</a></li>
+                <li class="mr-3 link2"><a href="https://github.com/site/privacy">Privacy</a></li>
+                <li class="mr-3 link2"><a href="https://docs.github.com/articles/github-security/task3.html">Security</a></li>
+                <li class="mr-3 link2"><a href="https://github.com/contact">Contact GitHub</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
